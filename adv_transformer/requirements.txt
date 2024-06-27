@@ -98,7 +98,7 @@ Sanic-Cors==0.10.0.post3
 Sanic-Dispatcher==0.7.3.0
 Sanic-Plugins-Framework==0.9.2
 scikit-learn==0.23.1
-scipy==1.4.1
+scipy==1.10.0
 sentencepiece==0.1.91
 setproctitle==1.1.10
 six==1.15.0
