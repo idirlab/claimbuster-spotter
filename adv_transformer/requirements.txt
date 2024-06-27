@@ -22,7 +22,7 @@ docutils==0.15.2
 elasticsearch==7.7.1
 emoji==1.2.0
 filelock==3.0.12
-Flask==1.1.2
+Flask==2.3.2
 Flask-Cors==3.0.8
 fuzzywuzzy==0.18.0
 gast==0.3.3
