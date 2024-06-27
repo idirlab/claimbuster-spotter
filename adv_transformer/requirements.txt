@@ -120,7 +120,7 @@ threadpoolctl==2.1.0
 tokenizers==0.9.3
 toml==0.10.1
 tqdm==4.46.1
-transformers==4.4.2
+transformers==4.30.0
 typed-ast==1.4.1
 ujson==3.0.0
 urllib3==1.25.9
