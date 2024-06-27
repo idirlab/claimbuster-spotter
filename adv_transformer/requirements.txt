@@ -65,7 +65,7 @@ mkl-service==2.3.0
 more-itertools==8.4.0
 multidict==4.7.6
 murmurhash==1.0.2
-nltk==3.5
+nltk==3.6.6
 numpy==1.18.5
 oauthlib==3.1.0
 opt-einsum==3.2.1
