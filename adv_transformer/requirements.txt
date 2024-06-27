@@ -49,7 +49,7 @@ itsdangerous==1.1.0
 jaraco.itertools==5.0.0
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib==0.15.1
+joblib==1.2.0
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
