@@ -123,7 +123,7 @@ tqdm==4.46.1
 transformers==4.4.2
 typed-ast==1.4.1
 ujson==3.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 uvicorn==0.11.5
 uvloop==0.14.0
 wasabi==0.6.0
